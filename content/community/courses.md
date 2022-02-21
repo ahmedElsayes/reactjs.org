@@ -25,6 +25,7 @@ permalink: community/courses.html
 - [Scrimba: Learn React for free](https://scrimba.com/g/glearnreact) - 48 hands-on video tutorials building react apps.
 
 - [University of Helsinki: Full Stack Open MOOC](https://fullstackopen.com/en/) - Learn to build web applications with React. Available in English, Spanish, Chinese and Finnish.
+- [Zero to Mastery Frontend Developer with React & TypeScript](https://aseeu.org/technopedia/courses/61cb6f19945f650016f30b38) - complete guide to Reactjs with TypeScript and Redx in **Arabic**
 
 
 ## Paid Courses {#paid-courses}
